@@ -1,5 +1,4 @@
-https://github.com/Tuzexin/computationalphysics_N2014301020169/blob/master/First%20Assignment
- **计算物理**
+  **计算物理**
  
   **姓名**：tuzexin
  
