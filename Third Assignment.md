@@ -71,7 +71,23 @@ main()
 >  *  作业2：字符移动
 
 ###  代码如下：
+
+ ```python
+    for x in range(4):    
+        for j in range(7):
+            for i in range(lens):
+                screen[j] =qwhitespace[0]*x + screen[j] + alphabet[name[i]][j]   #get your name use "#"
+            print screen[j]   
+            screen = [' ']*7
+        time.sleep(0.3)
+        os.system('cls')
+        print ('\n')*2*x
+    return screen 
+  ```
  
 ###  动图效果如下：
+![gif]()
  
+##  致谢
+致谢马士全同学的帮助！
  
