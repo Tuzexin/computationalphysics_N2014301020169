@@ -64,7 +64,8 @@ def main():
     kunnoname(name,lens)
 main()
  ```
-### 动图效果如下：
+### 动图效果如下：  
+![hjdshfjsa](https://github.com/Tuzexin/computationalphysics_N2014301020169/blob/master/john.gif)
  
  
 >  *  作业2：字符移动
