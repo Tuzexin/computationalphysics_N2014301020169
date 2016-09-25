@@ -86,7 +86,7 @@ main()
   ```
  
 ###  动图效果如下：
-![gif]()
+![gif](https://github.com/Tuzexin/computationalphysics_N2014301020169/blob/master/bandicam%202016-09-25%2022-10-47-070.avi_1474812741.gif)
  
 ##  致谢
 ------
