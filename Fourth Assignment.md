@@ -91,6 +91,28 @@ And the initial conditions can be changed via the keyboard input:
     ts = input("Input time step ->")
 ```
 # Result of Code
-When N_A = 100, N_B = 0, τ=1s:
+When N_A = 100, N_B = 0, τ=1(s):
+
+![picture 8](https://github.com/Tuzexin/computationalphysics_N2014301020169/blob/master/%E6%8D%95%E8%8E%B78.PNG)
+
+When N_A = 100, N_B = 0, τ=0.5(s):It's obviously that the sysytem reached equilirium more quickly.
+
+![picture 9](https://github.com/Tuzexin/computationalphysics_N2014301020169/blob/master/%E6%8D%95%E8%8E%B79.PNG)
+
+When N_A = 100, N_B = 0, τ=2(s):It's obviously that the sysytem reached equilirium more slowly.
+
+![picture 10](https://github.com/Tuzexin/computationalphysics_N2014301020169/blob/master/%E6%8D%95%E8%8E%B710.jpg)
+
+
+#Conclusion
+------
+In fact, errors always exist in calculating and plotting even precision drafting by computer. However, these errors can usually be controlled and reduced to a negligible level that not affect results.
+
+#References and Thanks
+[How to think like a computer scientist – Learning with Python: Interactive Edition 2.0](http://interactivepython.org/runestone/static/thinkcspy/index.html)  
+[teaching plan of Chapter 1](https://www.evernote.com/shard/s140/sh/d351f9a3-8076-4274-944b-7043e0ce8cf3/4f89e8630604ea23262f00b3ed11f8ad)  
+[Matplotlib Tutorial](https://www.evernote.com/shard/s140/sh/d13e46ed-7170-4c8f-8792-48cc84d67473/a24cb1d43b9a6504626d97ac279078c0)
+
+Thanks for MQdtc's help.
 
 
