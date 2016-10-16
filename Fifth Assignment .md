@@ -16,7 +16,7 @@ and the initial speed was 700m/s. The lower two curves were for a firing angle 3
 
 # Main body
 ------
-Because of trajectory without the effet of the lower air density, so C(the drag cofficient)=0. While g(the gravity acceleration)=9.8, m(the mass of cannon shell), ts(the time step)=1, v(the initial velocity)=700m/s. Then we run the following codes. We can get the answer and know the value of the angle that gives the maximum range.
+Because of trajectory without the effet of the lower air density, so C(the drag cofficient)=0. While g(the gravity acceleration)=9.8, m(the mass of cannon shell)=100, ts(the time step)=1, v(the initial velocity)=700m/s. Then we run the following codes. We can get the answer and know the value of the angle that gives the maximum range.
 
 #Code
 ------
