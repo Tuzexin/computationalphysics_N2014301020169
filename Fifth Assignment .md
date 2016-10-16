@@ -69,8 +69,15 @@ class cannon_shell:
 a = cannon_shell()
 a.trajectory()
 a.show_results() 
+```
 
 #Conclusion
 ------
+From the results, we get that while vx=vy, also the value of the angle=45°, the range is maximum. Here is the result of it:
+
+![picture3](https://github.com/Tuzexin/computationalphysics_N2014301020169/blob/master/%E6%8D%95%E8%8E%B712.PNG)
+
+![picture4](https://github.com/Tuzexin/computationalphysics_N2014301020169/blob/master/%E6%8D%95%E8%8E%B713.PNG)
 
 #References and Thanks
+Thanks for  MQdtc's codes.
