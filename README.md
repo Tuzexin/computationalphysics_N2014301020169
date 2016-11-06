@@ -11,4 +11,4 @@
 - [x] [Third Assignment](https://github.com/Tuzexin/computationalphysics_N2014301020169/blob/master/Third%20Assignment.md)
 - [x] [Fourth Assignment](https://github.com/Tuzexin/computationalphysics_N2014301020169/blob/master/Fourth%20Assignment.md)
 - [x] [Fifth Assignment](https://github.com/Tuzexin/computationalphysics_N2014301020169/blob/master/Fifth%20Assignment%20.md)
-- [x] [Seventh Assignment](https://www.zybuluo.com/mdeditor#)
+- [x] [Seventh Assignment](https://www.zybuluo.com/15927559519/note/557786)
